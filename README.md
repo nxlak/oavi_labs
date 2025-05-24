@@ -270,11 +270,11 @@
 
 ## Результаты фильтрации
 
-### Фильтр Савицкого-Голея ![Спектрограмма](lab9/savgol_spectrogram.png) 
+### Фильтр Савицкого-Голея ![Спектрограмма](common/lab9/savgol_spectrogram.png) 
 
-### Фильтр Винера ![Спектрограмма](lab9/wiener_spectrogram.png)
+### Фильтр Винера ![Спектрограмма](common/lab9/wiener_spectrogram.png)
 
-### Фильтр Низких частот ![Спектрограмма](lab9/lowpass_spectrogram.png)
+### Фильтр Низких частот ![Спектрограмма](common/lab9/lowpass_spectrogram.png)
 
 ## 3. Анализ энергии
 - Шаг анализа: 0.1 сек
